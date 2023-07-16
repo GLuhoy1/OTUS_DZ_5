@@ -1,0 +1,18 @@
+Отчёт о состоянии системы:
+Пользователи системы: 'kernoops', 'alex', 'colord', 'systemd+', 'message+', 'rtkit', 'lp', 'root', 'syslog', 'avahi'
+Процессов запущено: 407
+Пользовательских процессов:
+kernoops: 2
+alex: 105
+colord: 1
+systemd+: 3
+message+: 1
+rtkit: 1
+lp: 1
+root: 290
+syslog: 1
+avahi: 2
+Всего памяти используется: 9171640.0 mb
+Всего CPU используется: 42.1%
+Больше всего памяти использует: /snap/pycharm-commun
+Больше всего CPU использует: /snap/firefox/2908/u
